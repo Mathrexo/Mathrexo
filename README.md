@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Mathrexo.
 - 🌱 I’m currently learning JavaScript and Python and want to learn Django.
 - 📫 How to reach me: You can contact me via my Gmail at latrechfamilycomputer@gmail.com.
-- Facebook: Dhyaa Elddine Latrech.
+- Facebook:https://www.facebook.com/Mathrexo5.2.08/
+- Telegram:Dhyaa Elddine Latrech
 - If you would like to help me, I would welcome it!
 - if you have other sources to help me I'll be so grateful 💜
 - THANKS 4 READING🔥🔥

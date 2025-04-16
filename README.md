@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mathrexo.
-- 🌱 I’m currently learning JavaScript and Python and want to learn Django.
+- 🌱 Currently learning JavaScript and Python, with aspirations to learn Django, CSS, and other web development technologies.
 - 📫 How to reach me: You can contact me via my Gmail at latrechfamilycomputer@gmail.com.
 - Facebook:https://www.facebook.com/Mathrexo5.2.08/
 - Telegram:Dhyaa Elddine Latrech
